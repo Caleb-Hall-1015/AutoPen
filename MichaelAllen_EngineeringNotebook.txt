@@ -1,0 +1,54 @@
+Engineering Journal for Michael Allen 
+
+Date & Activity
+9/05/23
+Developed Project Purpose, Objective, and Scope 
+9/11/23
+Researched background resources for project
+9/14/23
+Continued Research for Tools and other project resources
+9/18/23
+Continued making product vision and helped with backlog
+9/20/23
+Purchased and Worked on Website/WebDev
+9/26/23
+Worked on SRSv1 and SDDv2
+9/28/23
+Finalized SRSv1 and SDDv2
+9/30/23
+Worked on Sprint 1 Demo
+10/3/23
+Worked on Sprint 1 Demo
+10/09/23
+Sprint 1 Demo Presentation
+10/10/23
+Helped create Sprint 2 backlog
+10/12/23
+Researched more WebDev
+10/13/23
+Worked Test Plan and further researched AI/Web Dev
+10/24/23
+Requested Github Workbench for more project tools
+10/26/23
+Worked on SRSv2 and SDDv2
+10/27/23
+Began setup for VMWare to assist Caleb (because he blew up the AI) 
+10/31/23
+Worked on SRSv2 and SDDv2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
