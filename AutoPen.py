@@ -1,7 +1,7 @@
 import subprocess
     
 def run_wmap(process,targetURL):
-    commands = f'msfconsole\n load wmap\n wmap_sites -a {targetURL}\n wmap_targets -t {targetURL}\n wmap_run -e\n wmap_vulns -l\n'
+    commands = f'msfconsole\n load wmap\n wmap_sites -a {targetURL}\n wmap_targets -t {targetURL}\n wmap_run -e\n wmap_vulns -l\n  vulns\n'
     stdout, stderr = process.communicate(commands)
     print("Output:\n", stdout)
         
