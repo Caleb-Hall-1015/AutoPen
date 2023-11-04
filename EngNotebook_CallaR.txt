@@ -1,0 +1,66 @@
+10/05/23 Found a django template to use in alternated to current sitegrounds template. Modified sprint 1 demo powerpoint
+
+10/12/23 Changed github setting permissions to allow remote access to our github repo
+
+10/13/23 Completed Sprint 1 peer eval
+
+10/14/23 Researched differences between ruby on rails vs python django vs python flask
+
+10/17/23
+Created a new github repository to store web application files (the django template)
+Reviewed SDD of the web application goals of our project
+
+10/19/23 Tried deploying the django template into sitegrounds but failed
+
+10/24/23
+Read throught the codebase structure of the template to better understand the django framework of the settings, admin vs user, database access, et.
+https://bootcamp.berkeley.edu/resources/coding/learn-django/#:~:text=What%20You%20Need%20to%20Know,basic%20understanding%20of%20coding%20fundamentals.
+
+
+10/26/23 Explored other cloud hosting platforms to deploy our website such as aws, microsft azure, heroku, and digital ocean and which one would be best for our project. Acquired the github student developer pack for free access to a few of these platforms
+
+10/28/23 Tried to deploy into microsoft azure, but ran into limitations with the student subscription wherein resourcegroup access was disabled and couldnt use certain commands to deploy the application. Read and write access was botched. 
+Tried Heroku but ran into an issue in making an account so then tried digitalocean where I am currently going trough the tutorial to delpoy.
+https://docs.digitalocean.com/developer-center/deploy-a-django-app-on-app-platform/
+
+
+10/31/23
+Reading on virtual environments https://blog.teclado.com/python-virtual-environments-complete-guide/
+
+Trying the tutorial again for digital ocean
+Implementing github actions as out CI/CD pipeline for handling the workflows. Learned about it here - https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
+Reading up on how to collect data from a machine learning algorithm and how we would want to categorize this data
+https://qualysec.com/services/ai-ml-penetration-testing/
+https://www.altexsoft.com/blog/data-collection-machine-learning/
+
+Added software changes to SDD V2
+
+Working on powerpoint for sprint 2 demo
+
+
+11/02/23
+Finished up sprint 2 demo powerpoint
+
+Presented demo
+
+Created sample Django project with a single html template
+https://www.youtube.com/watch?v=Wzy4OkTy7J0
+
+Read through https://masteringdjango.com/django-tutorials/mastering-django-structure/ to better understand the structure of the files in a Django template
+
+Read up and practiced creating and reading through static files to better understand what folders and files affect the front facing view of the application.
+https://www.digitalocean.com/community/tutorials/working-with-django-templates-static-files
+
+https://www.pluralsight.com/guides/introduction-to-django-templates
+
+Started preparing for sprint 3:
+-Categorize database for pentesting data
+-Create admin and login pages
+
+Understanding the CI/CD pipeline and contemplating whether to use jenkins or github actions. And deciding if and how we user docker and kubernetes.
+https://www.dynatrace.com/news/blog/kubernetes-vs-docker/#:~:text=Docker%E2%80%94or%20both%3F-,What%20is%20the%20difference%20between%20Kubernetes%20and%20Docker%3F,operating%20containerized%20applications%20at%20scale.
+
+
+
+
