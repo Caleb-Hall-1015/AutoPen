@@ -55,11 +55,24 @@ https://www.digitalocean.com/community/tutorials/working-with-django-templates-s
 https://www.pluralsight.com/guides/introduction-to-django-templates
 
 Started preparing for sprint 3:
--Categorize database for pentesting data
+-Categorize the database for pen-testing data
 -Create admin and login pages
 
 Understanding the CI/CD pipeline and contemplating whether to use jenkins or github actions. And deciding if and how we user docker and kubernetes.
 https://www.dynatrace.com/news/blog/kubernetes-vs-docker/#:~:text=Docker%E2%80%94or%20both%3F-,What%20is%20the%20difference%20between%20Kubernetes%20and%20Docker%3F,operating%20containerized%20applications%20at%20scale.
+
+11/05/2023 - 11/07/2023
+Created a GitHub organization with a AutoPen website repo
+Created digital ocean container registry
+Wrote a workflow in github actions to delpoy to Digital Ocean and it works!!!!
+Deployed sample Django app onto Digital Ocean
+Completed the sprint in Jira and updated our backlog with new tasks
+
+
+11/09/2023
+Got Myles up to speed on updating his code changes from GitHub to Digital Ocean
+Working on a Django skeleton for us to work on and use the Atlantis template for reference
+Met with the team and assigned tasks in the GitHub
 
 
 
