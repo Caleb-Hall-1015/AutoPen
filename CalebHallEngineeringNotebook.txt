@@ -11,6 +11,12 @@
 10/26/23 Detailed step by step process to execute web app scan in Metasploit. Broke down into atomic tasks for easier conversion into function calls
 10/30/23 Researched python module to write and execute in shell. Added code to AI to execute WMAP when user inputs URL
 10/31/23 Worked on SRS and SDD
+11/2/23 Worked on sprint demo powerpoint
+11/7/23 Discussed feasability of switching to Burp Suite, contacted Burp Suite sales team to request student account
+11/9/23 Recieved Burp Suite Pro license from boss at work, started learning how to use it
+11/12/23 Researched replacements of DVWA since it isn't as exetensive as needed
+11/13/23 Researched Burp Scanner, the web app scanner of Burp Suite
+11/14/23 Installed Burp Suite on VM, set it up and familiarized myself with dashboard
 
 
 
