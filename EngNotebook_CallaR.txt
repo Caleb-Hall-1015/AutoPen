@@ -74,6 +74,31 @@ Got Myles up to speed on updating his code changes from GitHub to Digital Ocean
 Working on a Django skeleton for us to work on and use the Atlantis template for reference
 Met with the team and assigned tasks in the GitHub
 
+11/11/2023
+Read articles about combining react.js with Django
+Learned about serialization
+https://www.geeksforgeeks.org/serializers-django-rest-framework/
+https://www.geeksforgeeks.org/how-to-create-a-basic-api-using-django-rest-framework/
+
+11/12/2023
+Walked through a tutorial for creating a Django skeleton
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/skeleton_website
+
+Walked through a tutorial for setting up a frontend using React.js and backend django
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
+11/13/2023
+Walking through the tutorials again previously mentioned while making our own web application. 
+Read more articles of the best frontend framework to use based on out skill level and product needs. React vs Angular vs View
+https://www.yarddiant.com/blog/web-development/best-front-end-framework-for-django.html
+
+Read how to setup a Django REST framework to connect the data end points using a Django REST API
+https://blog.logrocket.com/django-rest-framework-create-api/
+https://blog.logrocket.com/using-react-django-create-app-tutorial/
+
+Found this tool that may help with our frontend design
+https://www.nimbuseditor.com/
+
 
 
 
