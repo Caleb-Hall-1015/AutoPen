@@ -4,10 +4,11 @@
 
 9/19/2023 	Slightly adjusted overall research references
 
-9/21/2023 	Add the purpose, product scope, references and intended audience, 		safety requirements of the 1st version of the SRS and some research 		documents into the overall research references
-9/26/2023	Added future contingencies to the 1st version of the SDD, as well as 		the product function, security requirements, business rules  and 		adjusted the safety requirements of the 1st version of the SRS
+9/21/2023 	Add the purpose, product scope, references and intended audience, safety requirements of the 1st version of the SRS and some research 		documents into the overall research references
 
-9/28/2023 	Slightly adjusted the system architecture section of the 1st version of 		the SDD, and the legal constraints in the SDD, and adjusted the 		business rules to the 1st version of the SRS, added comments for the  		1nd version of the  SDD and SRS to be made pending approval which 		discussed info that could be added for the environment and assumptions 		for the SRS, and the output and hardware for the SDD
+9/26/2023	Added future contingencies to the 1st version of the SDD, as well as the product function, security requirements, business rules and adjusted the safety requirements of the 1st version of the SRS
+
+9/28/2023 	Slightly adjusted the system architecture section of the 1st version of 		the SDD, and the legal constraints in the SDD, and adjusted the business rules to the 1st version of the SRS, added comments for the 1nd version of the SDD and SRS to be made pending approval which discussed info that could be added for the environment and assumptions for the SRS, and the output and hardware for the SDD
 
 10/4/2023	Worked on the slides of Demo 1
 
@@ -17,26 +18,27 @@
 
 10/17/2023	Added Criteria for suspension and resumption in the test plan
 
-10/24/2023	Added references to the 2nd version of the SDD, helped rework and 		removed unnecessary parts of Inputs in the 2nd version of the SDD, and 		added elaboration on the scoring of the Description and priority in the 		2nd version of the SRS
+10/24/2023	Added references to the 2nd version of the SDD, helped rework and removed unnecessary parts of Inputs in the 2nd version of the SDD, and added elaboration on the scoring of the Description and priority in the 2nd version of the SRS
 
-10/31/2023	Created some basic slides for Demo 2, Added to the references to the 		2nd version of the SRS, and Tools into the 2nd version of the  SDD, 		added comments discussing possible changes for the  2nd version of the  		SDD and SRS to be made pending approval which asked about additions to 		the analysis models for the SRS and consistent capitalization of 		abbreviations and additions to tools for the SDD
+10/31/2023	Created some basic slides for Demo 2, Added to the references to the 2nd version of the SRS, and Tools into the 2nd version of the  SDD, 		added comments discussing possible changes for the  2nd version of the SDD and SRS to be made pending approval which asked about additions to the analysis models for the SRS and consistent capitalization of abbreviations and additions to tools for the SDD
+
 11/2/2023	Made small adjustments to Demo 2 slides
 
 11/6/2023	Added copy of testplan for V2 
 
 11/7/2023	Added copy of SRS and SDD for V3 
 
-11/9/2023	Edited slides for the Final Demo, added to references of the 3rd 		version of the SRS
+11/9/2023	Edited slides for the Final Demo, added to references of the 3rd version of the SRS
 
 11/14/2023	Added references to 3rd version of the SDD and SRS
 
 11/16/2023	Edited final demo slides
 
-11/21/2023	Added Table/ figure  names to  3rd version of the SDD, changed 			numbering for  3rd version of the SRS, moved constraint that were in 		assumption for  3rd version of the SRS, altered wording of assumptions 		for  3rd version of the SRS, added comments to  3rd version of the SDD 		and SRS stating changes that could be made with group approval which 		discussed adding more screenshots and diagrams for the SDD and SRS
+11/21/2023	Added Table/ figure  names to  3rd version of the SDD, changed numbering for  3rd version of the SRS, moved constraint that were in assumption for  3rd version of the SRS, altered wording of assumptions for 3rd version of the SRS, added comments to 3rd version of the SDD and SRS stating changes that could be made with group approval which discussed adding more screenshots and diagrams for the SDD and SRS
 
-11/28/2023	Added comments to the  2nd version of the   test plans for changes to 		be made pending group approval, which discussed the need for the 		appendix, asking for changes to the environment, and asking where 		changes from metasplit to burpsuite would go if anywhere
+11/28/2023	Added comments to the  2nd version of the   test plans for changes to be made pending group approval, which discussed the need for the appendix, asking for changes to the environment, and asking where changes from metasplit to burpsuite would go if anywhere
 
-11/30/2023	Adding bullet points for the” limitations and challenges” slide  of the 		final demo
+11/30/2023	Adding bullet points for the” limitations and challenges” slide  of the final demo
 
-12/7/2023	Added bullet points to the “charting the future course” slide which was 		later changed to “Next Steps”/ “Future Goals” in the final demo
+12/7/2023	Added bullet points to the “charting the future course” slide which was later changed to “Next Steps”/ “Future Goals” in the final demo
 
