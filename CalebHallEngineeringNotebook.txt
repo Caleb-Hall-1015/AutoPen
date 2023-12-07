@@ -1,22 +1,49 @@
-10/08/23 Thought through some tickets for Sprint 2
+8/29/23 Kickoff for Sprint 1. First true meeting with team. Michael and I explained goals of project to team members. Getting to know each other. Exchange contact information
+8/31/23 Created all workspaces for project. Google drive for file sharing, Discord for communication, Jira for scrum work. Discussed team roles and assigned leads for AI and web dev
+9/5/23 Researched pen testing tools, such as Kali Linux, John the Ripper,  Nmap, Metasploit, Burp Suite
+9/7/23 Familiarized myself with Jira. Added all team members to workspaces created previously. Performed troubleshooting on permissions when team members couldn't edit issues in Jira.  
+9/12/23 Created Jira tickets for first sprint. 
+9/14/23 Team worked on product vision and backlog
+9/17/23 Researched pen testing and how AI can be used to make it better
+9/19/23 Finalized and submitted Product Vision and backlog
+9/28/23 Worked and discussed SRS and SDS
+9/29/23 Finalized and submitted first iteration of SRS and SDS 
+10/3/23 Worked in Jira to finish tickets
+10/4/23 Created slides for Sprint 1 demo
+10/5/23 Gave Sprint 1 demo presentation
+10/06/23 Thought through some tickets for Sprint 2
 10/09/23 Read up on Metasploit web app capability. Found another person’s source code for reinforcement learning AI that connects to Metasploit
 10/10/23 Further reading on Metasploit. Metasploit downloaded to VM
 10/12/23 Watched YouTube tutorials to learn HTML and CSS to use on website
 10/13/23 Completed Sprint 1 peer eval
 10/14/23 Worked on AI some
-10/17/23 Practiced Metasploit attack manually. Baseline definition of reward structure Worked on test plan doc
+10/17/23 Practiced Metasploit attack manually. Worked on test plan doc
 10/18/23 Finished test plan doc
 10/19/23 Worked on Jira tickets. General scrum maintenance 
-10/24/23 Blew up AI, attempted troubleshooting but failed. Fresh install of Kali and all software for project
+10/24/23 Blew up VM, attempted troubleshooting but failed. Fresh install of Kali and all software for project
 10/26/23 Detailed step by step process to execute web app scan in Metasploit. Broke down into atomic tasks for easier conversion into function calls
 10/30/23 Researched python module to write and execute in shell. Added code to AI to execute WMAP when user inputs URL
 10/31/23 Worked on SRS and SDD
 11/2/23 Worked on sprint demo powerpoint
 11/7/23 Discussed feasability of switching to Burp Suite, contacted Burp Suite sales team to request student account
 11/9/23 Recieved Burp Suite Pro license from boss at work, started learning how to use it
-11/12/23 Researched replacements of DVWA since it isn't as exetensive as needed
+11/12/23 Researched replacements of DVWA since it isn't as exetensive as needed. Decided not worth the effort, will continue with DVWA and reevaluate next semester
 11/13/23 Researched Burp Scanner, the web app scanner of Burp Suite
 11/14/23 Installed Burp Suite on VM, set it up and familiarized myself with dashboard
+11/16/23 Started final iteration of SRS and SDS
+11/17/23 Continued work on documentation from previous day
+11/21/23 Finalized and submitted documents. Created models to describe system interactions
+11/23/23 Attempted deep scan (highest level of detail on Burp Suite). VM would scan for a few seconds, then crash. Attempted to figure out why
+11/24/23 Determined laptop was not powerful enough. BurpSuite was attempting to do too much
+11/25/23 Spoke with Michael, determined best course of action was to migrate VM to my gaming laptop, where it could utilize significantly more resources
+11/28/23 Began migration of VM. Redownloaded VMWare, set up entirely new Kali box. Redownloaded and set up DVWA. Contacted BurpSuite support to recieve help in changing liscense over to new install
+11/30/23 Recieved reply from customer support. Set up BurpSuite Pro on new VM. Began test scans to ensure functionality
+12/1/23 Attempted deep scan on new computer. After a few hours, scan completed. Reviewed results of scan
+12/4/23 Began work on final test plan with Michael and Josh
+12/5/23 Recieved feedback on initial test plan, implememted into final.
+12/6/23 Finalized and submitted test plan. Planned my section of slides for final demo
+12/7/23 Created slides for final demo. Gave presentation
+
 
 
 
