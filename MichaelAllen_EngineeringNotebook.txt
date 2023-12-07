@@ -35,6 +35,16 @@ Worked on SRSv2 and SDDv2
 Began setup for VMWare to assist Caleb (because he blew up the AI) 
 10/31/23
 Worked on SRSv2 and SDDv2
+11/14/23
+Worked on the Test Plan Document - Relining it for Version 2
+11/21/23
+Worked on the SDDv3 and SRSv3
+12/5/23
+Worked on the Test Plan Document - Implementing suggestions by Josh
+12/6/2023
+Finished up the Test Plan based on feedback
+12/7/2023 
+Worked on Presentation Slides and Organization
 
 
 
