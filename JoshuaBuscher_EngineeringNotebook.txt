@@ -40,5 +40,6 @@
 
 11/30/2023	Adding bullet points for the” limitations and challenges” slide  of the final demo
 
-12/7/2023	Added bullet points to the “charting the future course” slide which was later changed to “Next Steps”/ “Future Goals” in the final demo
+12/4/2023	Added bullet points to the “charting the future course” slide which was later changed to “Next Steps”/ “Future Goals” in the final demo
 
+12/7/2023 Added final slides to the github repository
