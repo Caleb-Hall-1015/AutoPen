@@ -1,0 +1,125 @@
+﻿https://www.youtube.com/watch?v=LQTMqGns7Co 
+Date
+	Activity
+	9/5/23
+	Began research on deep learning and reinforce learning 
+
+
+https://www.synopsys.com/ai/what-is-reinforcement-learning.html#:~:text=Definition,environment%20to%20obtain%20maximum%20reward.
+
+
+https://aws.amazon.com/what-is/deep-learning/#:~:text=Deep%20learning%20is%20a%20method,produce%20accurate%20insights%20and%20predictions.
+	9/7/23
+	Chosen reinforced learning and conducted more research about the method
+
+
+https://www.youtube.com/watch?v=2xATEwcRpy8
+	9/14/23
+	Research AI algorithms
+
+
+https://www.tableau.com/data-insights/ai/algorithms
+	9/19/23
+	Research on website development
+
+
+https://brainstation.io/career-guides/what-is-web-development
+	9/21/23
+	Research web hosting and development
+
+
+https://www.hostinger.com/tutorials/what-is-web-hosting/
+	9/28/23
+	Worked on SDS and SRS V1
+	9/29/23
+	Worked and finalized SDS and SRS V1
+	10/03/23
+	Began preparing for Sprint\1 demo
+	10/05/23
+	Presented Sprint\1 demo
+	10/10/23
+	Reviewed Sprint\1 and began defining task for Sprint\2
+	10/12/23
+	Research for SiteGround
+
+
+https://www.siteground.com/
+
+
+https://www.youtube.com/shorts/YSjGIUov1Xg
+	10/13/23
+	Completed peer evaluation 1.
+	10/17/23
+	Met with the team and completed retrospect of Sprint\1. Also worked on test plan.
+	10/18/23
+	Worked and completed test plan
+	10/19/23
+	N/A; Fall break
+	10/24/23
+	Research on DigitalOcean and siteground
+
+
+https://docs.digitalocean.com/developer-center/
+	10/26/23
+	Worked on V2 of SDS and SRS
+	10/28/23
+	Worked on and completed diagrams for  V2 of SDS. As well as worked on V2 of SRS.
+	10/31/23
+	Completed V2  of the SDS and SRS. Began presentation for Sprint\2 demo
+	11/01/23
+	Completed presentation for Sprint\2 demo
+	11/02/23
+	Presented Sprint\2 demo
+	11/03/23
+	Completed peer evaluation for Sprint\2
+	11/07/23
+	Research how to create a website using Python with Django frameworks. 
+
+
+https://www.youtube.com/watch?v=i6cwBiz7BuQ&list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
+
+
+https://www.youtube.com/watch?v=eag9Utgh6FI&list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW&index=3
+	11/09/23
+	Started creating website for AutoPen
+	11/13/23
+	Research how to created Admin and user Login for Autopen website 
+
+
+https://www.youtube.com/watch?v=8p4yPXBhQbU
+	11/14/23
+	Met with Calla to go over AutoPen website and how to use ReactJS and Nod.JS
+
+
+https://www.datacamp.com/tutorial/git-push-pull
+
+
+https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c
+
+
+https://github.com/RobPruzan/React-Django-Skeleton- 
+	11/16/23
+	N/A;  Began traveling for thanksgiving break, but worked on SDS and SRS
+	11/21/23
+	Created and added diagrams and charts to the final SRS and SDS.  
+	11/23/23
+	Thanksgiving Break
+	11/27/23
+	Planning for Autopen final demo
+	11/28/23
+	Worked on AutoPen website
+	11/30/23
+	Worked on homepage and user registration for AutoPen website
+	12/3/23
+	Created powerpoint and outline for final demo. Completed peer evaluation 3
+	12/4/23
+	Worked on final demo presentations and did research on how to implement logos and pictures in HTML file
+
+
+https://www.contexteditor.org/how-to-add-logo-in-html/
+	12/5/23
+	Worked on layout/outline for homepage of AutoPen, as well as worked user registration page and login page.
+	12/6/23
+	Updated presentation for final demo and worked on the homepage for AutoPen website. Attempted  to implement user registration and login page.
+	12/7/23
+	Completed and presented the presentation for the final demo. Also added logo and pictures/icons on the homepage for AutoPen.
