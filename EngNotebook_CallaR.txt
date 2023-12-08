@@ -1,3 +1,23 @@
+9/05/2023
+Met with team, set up jira, talked about general tasks each of us would work on
+
+09/07/2023
+Created tasks to put in jira and started assigning them to eachother
+
+09/12/2023
+Did research on the best language to use for web development - python or ruby
+Set up siteground website
+
+09/14/2023
+After doing research and trying to figure out the codebase with our sitegrounds template
+I found it better to find a different cloud host that can pull from github and connect to an AI on a VM
+
+09/21/2023
+Did research on automated pentesting web applications to see the interface they use for their product and understand what works best for them. Including how they display the pentest reports to the user.
+
+10/03/2023
+tested differen django templates to see which one best fits our priduct goals.
+
 10/05/23 Found a django template to use in alternated to current sitegrounds template. Modified sprint 1 demo powerpoint
 
 10/12/23 Changed github setting permissions to allow remote access to our github repo
@@ -98,6 +118,35 @@ https://blog.logrocket.com/using-react-django-create-app-tutorial/
 
 Found this tool that may help with our frontend design
 https://www.nimbuseditor.com/
+
+11/14/2023
+Started Database schema to describe in SDD
+
+11/16/2023
+Found a skeleton template for using django and react together and uploaded it to github
+
+
+11/20/2023
+Finished Database schema and other diagrams for the SDD
+Added information about the server side programming and client side programming in SDD
+
+
+12/01/2023
+Ran database locally to test functionality
+
+12/05/2023
+Worked on powerpoint adding diagrams and visuals of cloud connections
+
+
+12/06/2023
+Created cloud database in digital ocean to connect to the app platform in our project. 
+Created a new skeleton for the Autopen App having the frontend separate from the backend where the frontend is react app and the backend uses the Django rest framework.
+https://github.com/AutoPen/AutoPenWebApp
+Created a workflow file configured to the autopen repo
+
+12/07/2023
+Made more powerpoint changes and put touchups on the homepage
+Presented Project to class
 
 
 
