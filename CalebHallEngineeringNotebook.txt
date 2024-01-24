@@ -45,7 +45,10 @@
 
 
 
-
+1/16/24 Quick meeting with team. Discussed proposals of how to shift project. I came up with idea for AI chatbot or removing AI in general
+1/18/24 Further discussion on how to pivot project. Decided that AI chatbot could be stretch goal. Main focus is on interfacing with industry tools
+1/23/24 Edited and submitted Product Vision. Created and submitted Product Backlog. Added Dr. Yang and Carly to GitHub. Checked Jira, no prof or TA on it. Must fix
+1/24/24 Created new branch in GitHub for Spring documentation. Old folder too cluttered
 
 
 
