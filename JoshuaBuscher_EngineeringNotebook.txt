@@ -43,3 +43,13 @@
 12/4/2023	Added bullet points to the “charting the future course” slide which was later changed to “Next Steps”/ “Future Goals” in the final demo
 
 12/7/2023 Added final slides to the github repository
+
+
+
+
+
+
+
+
+
+1/25/2024 Made copies of SDS, SRS, traceablity matrix, and testplan, made a folder for the last semester and new semester. Put new copies of documents in to the folder for the new semester, and old versions of documents and research into the folder for the old version.
