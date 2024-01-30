@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Launch Scan</title>
+</head>
+<body>
+
+    <h2>Launch Scan</h2>
+
+    <form action="/submit-form" method="post">
+        <label for="targetIp">Target IP:</label><br>
+        <input type="text" id="targetIp" name="targetIp" placeholder="Enter Target IP"><br><br>
+
+        <label for="scannerIp">Scanner IP:</label><br>
+        <input type="text" id="scannerIp" name="scannerIp" placeholder="Enter Scanner IP"><br><br>
+
+        <label for="scanType">Scan Type:</label><br>
+        <select id="scanType" name="scanType">
+            <option value="lightweight">Lightweight</option>
+            <option value="fast">Fast</option>
+            <option value="balanced">Balanced</option>
+            <option value="deep">Deep</option>
+        </select><br><br>
+
+        <input type="submit" value="Start Scan">
+    </form>
+
+</body>
+</html>
+
+<!--   curl -vgw "\n" -X POST http://192.168.2.128:1337/<key_here>/v0.1/scan -d '{"urls":[]}'   -->
