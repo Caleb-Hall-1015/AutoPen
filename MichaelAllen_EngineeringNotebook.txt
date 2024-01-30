@@ -46,10 +46,18 @@ Finished up the Test Plan based on feedback
 12/7/2023 
 Worked on Presentation Slides and Organization
 
+------------------------------------------------------------------------------------
+Spring 2024
 
 
+1/23/2024 
+Documentation:
+Worked on and revised Vision Statement document and project timeline
 
-
+1/30/2024
+Software Development: 
+Working with Caleb to develop a workaround for the droplets (website vm subscription)
+Editing HTML code to pulls up a website that accept a target IP that routes to VM IP then summons the burpsuite API
 
 
 
