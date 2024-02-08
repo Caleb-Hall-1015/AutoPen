@@ -59,8 +59,14 @@ Software Development:
 Working with Caleb to develop a workaround for the droplets (website vm subscription)
 Editing HTML code to pulls up a website that accept a target IP that routes to VM IP then summons the burpsuite API
 
+2/5/2024
+Worked on the Sprint 1 Presentation slides
 
+2/6/2024
+Sprint 1 Demo - in class presentation 
 
+2/8/2024 
+Worked on page list for web development and future sprint goals 
 
 
 
