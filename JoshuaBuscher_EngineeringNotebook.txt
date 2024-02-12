@@ -58,4 +58,4 @@
 
 2/3/2024 Replaces wording of AI with Burp Suite and Added phrases to end of sections with digital ocean stating the fact that the group was questioning using it because of funding
 
-2/5/2024 Attempted to change revision history of SDD/SRS by deleting the old data from last semester and making the documents exclusively about the new one, as the attempt made to ask for the correct way for the revision history was ignored, and was later altered by another member of the team the same day
+2/5/2024 Attempted to change revision history of SDD/SRS by deleting the old data from last semester and making the documents exclusively about the new one, was later changed to reinclude the last semester history because of a lack of understanding of what was need for the section on my part
