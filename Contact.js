@@ -1,6 +1,6 @@
 function Contact() {
     return (
-        <div className="App">
+        <div className="Contact">
             <h1>Contact Us</h1>
            
             <p align="left " style={{ marginLeft: "100px" }}>
@@ -20,4 +20,4 @@ function Contact() {
 
 }
 
-export default App;
+export default Contact;
