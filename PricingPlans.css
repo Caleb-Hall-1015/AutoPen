@@ -1,0 +1,21 @@
+.pricing-container {
+  text-align: center;
+}
+
+.plans {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.plan {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+}
+
+.note {
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
