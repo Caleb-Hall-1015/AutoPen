@@ -148,14 +148,31 @@ Created a workflow file configured to the autopen repo
 Made more powerpoint changes and put touchups on the homepage
 Presented Project to class
 
-2/5/2023
+1/18/2024
+Worked on CI/CD file in github actions to digital ocean for the front end piece
+
+1/23/2024
+Worked on CI/CD file in github actions to digital ocean for the back end piece
+
+2/5/2024
 Created and worked on sprint 1 demo presentation
 
-2/6/2023
+2/6/2024
 Worked on print 1 demo presentation and presented in class
 
-2/8/2023
+2/8/2024
 Created and edited list of web pages that need to be created and worked on for this upcoming sprint
+
+2/13/2024
+Created Front-End React walk-through document for other group members to follow when making their web pages
+
+2/14/2024
+Updated Web Page tutorial to reflect an example for them to follow
+
+2/15/2024
+Scrum meeting
+
+
 
 
 
