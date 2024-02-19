@@ -70,6 +70,13 @@ Worked on page list for web development and future sprint goals
 
 
 
+2/17/2024
+Worked on UI Website Development
+React.JS, CSS, and HTML - Completed the Pricing Plan Page
+
+2/18/2024
+Worked on UI Website Development
+React.JS, CSS, and HTML - Prototyped AboutUs page (potentially combining it with the Pricing Plan Page) 
 
 
 
