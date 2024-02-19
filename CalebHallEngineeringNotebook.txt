@@ -58,10 +58,11 @@
 2/8/24 Created web map of all pages. Team retrospective and set focus for sprint 2
 2/10/24 Created state chart of web pages
 2/11/24 Set up sprint tasks in Jira. Started sprint
-
-
-
-
+2/13/24 Worked on test result page. Used cURL from start scan page as guideline. Rough page complete, needs more tuning before upload
+2/14/24 Wiped laptop. Attempted to download Kali on new laptop. Something went wrong, no GUI on download. Only had command line, and even simple commands (ifconfig for example) failed, stated that bash did not understand the command. Researched possible causes, found that windows defender likely blocked download of some modules. Second option was it failed due to no internet connection during setup
+2/15/24 Rewiped computer, Kali downloaded without defender firewall. Install successful
+2/16/24 Filled out and submitted peer eval
+2/17/24 Downloaded rest of tools on new laptop. Set up DVWA and Burp. Edited code in website to point to new IP. Communicated with team to upload all current pages to GitHub. Researched how to upload pages to Digital Ocean and set up website
 
 
 
