@@ -172,6 +172,17 @@ Updated Web Page tutorial to reflect an example for them to follow
 2/15/2024
 Scrum meeting
 
+2/17/2024
+Merged branches in the Github and debugged the backend and found the problem of why it was not running properly
+
+2/19/2024
+Added a navigation bar and linked the contact us, about us, FAQ, and pricing plan pages to the navigation bar. it took me too long (4 hours)
+
+2/20/2024
+
+
+
+
 
 
 
