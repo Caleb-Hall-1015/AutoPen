@@ -1,23 +1,22 @@
 import React from 'react';
-import './PricingPlans.css'; 
 
-function PricingPlans() {
+function pricing() {
   return (
     <div className="pricing-container">
       <h1>Our Pricing Plans</h1>
       <div className="plans">
-        <div className="plan">
+        <div className="freeplan">
           <h2>Free</h2>
           <p>2 scans per week</p>
           <p>$0/mo</p>
         </div>
-        <div className="plan">
+        <div className="plusplan">
           <h2>Plus</h2>
           <p>3 scans per day</p>
           <p>Extra scans at $19.99/scan</p>
           <p>$29.99/mo</p>
         </div>
-        <div className="plan">
+        <div className="premiumplan">
           <h2>Premium</h2>
           <p>Unlimited scans per day*</p>
           <p>32 scans per week limit</p>
@@ -30,4 +29,4 @@ function PricingPlans() {
   );
 }
 
-export default PricingPlans;
+export default pricing;
