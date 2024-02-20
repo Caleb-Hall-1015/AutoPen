@@ -1,5 +1,6 @@
+import React from 'react';
 
-function FAQ() {
+function faq() {
   return (
     <div className="FAQ">
        <h1 align ="center">FAQ</h1>
@@ -51,4 +52,4 @@ function FAQ() {
   );
 }
 
-export default FAQ;
+export default faq;
