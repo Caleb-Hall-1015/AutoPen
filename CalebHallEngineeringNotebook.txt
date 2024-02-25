@@ -63,7 +63,8 @@
 2/15/24 Rewiped computer, Kali downloaded without defender firewall. Install successful
 2/16/24 Filled out and submitted peer eval
 2/17/24 Downloaded rest of tools on new laptop. Set up DVWA and Burp. Edited code in website to point to new IP. Communicated with team to upload all current pages to GitHub. Researched how to upload pages to Digital Ocean and set up website
-
+2/16/24 Created about us, contact, faq pages. Uploaded all to SiteGrounds. Published webpage and set DNS to point to new website. 
+2/24/24 Launched droplet. Set firewall rules for droplet. Downloaded nginx, set up postgresql database, downloaded docker, set up ubuntu desktop for gui access. 
 
 
 
