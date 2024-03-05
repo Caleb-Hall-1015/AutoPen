@@ -82,7 +82,26 @@ React.JS, CSS, and HTML - Completed the Pricing Plan Page
 Worked on UI Website Development
 React.JS, CSS, and HTML - Prototyped AboutUs page (potentially combining it with the Pricing Plan Page) 
 
+2/26/2024
+Worked with Caleb on the droplet, trying to troubleshoot why DigitalOcean's droplet system wasn't allowing him to boot up and use VM interface except through safe-boot (couldn't load the UI or ssh into terminal)
 
+2/27/2024
+Worked with Caleb on brainstorming how to properly integrate DigitalOcean droplets into the backend, discussing possibly bypassing the droplet entirely.
+
+2/29/2024 
+Worked on revising the Testplan and reviewing the feedback
+
+3/3/2024
+Worked on the SDD and SRS
+Formatting, fixing indentations, fixing numbering format, fixing spacing formats, investing in section 6 for SDD
+
+3/4/2024 
+Working on the Sprint Demo
+Working on slides about the project overview and webpage demonstration
+
+3/5/2024 
+Working on the Sprint Demo
+Working on slides about the project overview and webpage demonstration
 
 
 
