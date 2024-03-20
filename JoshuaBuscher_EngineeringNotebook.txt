@@ -65,3 +65,17 @@
 2/15/2024 Created a simple "contact us" page for website, and uploaded it to github
 
 2/16/2024 Created a simple "FAQ" page for website
+
+2/24/2024 Edited title of second version of the test plan 
+
+2/25/2024 Changed the environment section of the second version of the test plan, added a table for the risks and Contingencies for the second version of the test plan
+
+2/26/2024 Removed the old paragraph formated segments of the envirmont section of the second version of the test plan
+
+3/1/2024 Edited the title, as well as some of the performance requirements for the second version of the SRS, and removed Overview title segments, removed all introductions that were not in section 1, and alternated the names of the design constrains edited the legal constraints to match the formating of the other constraints for the second version of the SDD
+
+3/2/2024 Made formatting changes and edits for the second version of the SRS and SDD to follow the given feedback, including: editing disclaimers to match previous ones, adding section descriptions, editting the numbering of requirements and segments to match the example, and editing the introductions of the documents
+
+3/3/2024 Adding proper numbering formating to the second version of the SRS and SDD, editing the section 5.4 software quality attributes for the second version of the SRS, editing section 2.2 coding languages for the second version of the SDD
+
+3/4/2024 Editing the title formating of the second version of the SRS and SDD
