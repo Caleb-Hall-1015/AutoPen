@@ -89,6 +89,7 @@ Worked with Caleb on the droplet, trying to troubleshoot why DigitalOcean's drop
 Worked with Caleb on brainstorming how to properly integrate DigitalOcean droplets into the backend, discussing possibly bypassing the droplet entirely.
 
 2/29/2024 
+Worked on Documentation
 Worked on revising the Testplan and reviewing the feedback
 
 3/3/2024
@@ -103,6 +104,21 @@ Working on slides about the project overview and webpage demonstration
 Working on the Sprint Demo
 Working on slides about the project overview and webpage demonstration
 
+3/19/2024
+Tested the website areas of improvement and bugs, relaying them to team members and marking for future backlog items
 
+3/24/2024
+Re-organization of Project architecture
+Modified the project architecture to focus on sitegrounds rather than digitaloceans due to the lack of digital ocean's usability
+
+3/26/2024
+Discussed with Caleb and conducted research on how to secure a database for login hashing and encryption  
+
+3/28/2024
+Discussed with Calla and conducted research on how to pull an API Key from a java script using Ptyhon Django Framework 
+
+3/31/2024 
+Created Sprint 6 Backlog 
+Worked in Jira to create the different issues for the team's backlog, assigning tasks
 
 
