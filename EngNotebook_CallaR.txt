@@ -179,6 +179,31 @@ Merged branches in the Github and debugged the backend and found the problem of 
 Added a navigation bar and linked the contact us, about us, FAQ, and pricing plan pages to the navigation bar. it took me too long (4 hours)
 
 2/20/2024
+Researched streamline communciation between react and django
+
+2/22/2024
+Beautifed the web pages to match the purple and black theme across the pages. 
+
+2/27/2024
+DId research on bootstrap and scss for future use of our project to have a more dynamic and user interactive web application
+
+2/29/2024
+Uploaded updated web application to sitegrounds. Status: Web page with navigation bar and pages:faq, homepage, pricing, contact us, and about us
+
+3/1/2024
+Met with Caleb on campus to discuss moving forward with the burpsuite API and how to best utilize digital ocean droplets and functionality wiht a project
+
+3/2/2024 - 3/7/2024
+Uploaded full web application with login, dashboard, and homepages to sitegrounds. Integrated the login pages with the current state of website. Worked on sprint slideshow on the explanation of inner communication between backend and front end
+
+3/17/2024 - 3/19/2024
+Built trial data dashboards using chart js to practice visualizing data through django reading from a csv file
+
+3/26-28/2024 
+Built communication links using Djangos rest api framework and axios to streamline data across the two plaforms. Currently state: there are a lot of bugs. Also spoke with CAleb on moving the start scan functionality to a python script in the django backend. while leaving the react front end with nothing more than the buttonn that would be pressed to intiate the function call in django to run the scan and deliver the data.
+
+
+
 
 
 
