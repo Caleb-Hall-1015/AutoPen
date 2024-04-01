@@ -65,21 +65,17 @@
 2/17/24 Downloaded rest of tools on new laptop. Set up DVWA and Burp. Edited code in website to point to new IP. Communicated with team to upload all current pages to GitHub. Researched how to upload pages to Digital Ocean and set up website
 2/19/24 Created about us, contact, faq pages. Uploaded all to SiteGrounds. Published webpage and set DNS to point to new website. 
 2/24/24 Launched droplet. Set firewall rules for droplet. Downloaded nginx, set up postgresql database, downloaded docker, set up ubuntu desktop for gui access. Rebooted server, no longer able to connect. Used recovery console to access server, and spent 3 hours looking through config files and attempting to regain internet access. No dice, opened support ticket
-2/25/24 
-2/27/24
-2/28/24
-2/29/24
-3/1/24
-3/5/24
-3/6/24
-3/8/24
-3/17/24
-3/18/24
-3/19/24
-3/21/24
-3/25/24
-3/26/24
-3/28/24
+2/25/24 Edited Test Plan and uploaded to GitHub/Canvas
+2/27/24 Recieved response from support. Attempted to edit config files as stated by staff using the recovery terminal. Changes would not save, access to server still impossible on regular account. Replied to ticket with update, awaiting response again
+2/28/24 Response recieved, attempted second fix. Fix was successful, can now access VM with root account and SSH
+2/29/24 Uploaded latest code to SiteGrounds. SiteGrounds to still be used to host site until if/when DigitalOceans is fully set up and functional
+3/3/24 Edit SRS and SDS to reflect most recent project changes and implement feedback from comments on previous submission. Upload V2 of documents
+3/5/24 Edited demo slides and gave status report to professors
+3/18/24 Created API call to gather results after scan starts
+3/19/24 Changed Burp API call to use scan depth as input by user, rather than defaulting to light scan
+3/21/24 Researched Python requests library to determine how to make cURL request in Python
+3/25/24 Converted JS Burp API call into Python to start scan. Determined how to pull variables out of JS text box to use as CLI arguments when calling Python script
+3/26/24 Edited scan script to note what the scan number is and note it for use in database
 3/31/24 Edited engineering notebook. Uploaded engineering notebook and proof of backlog
 
 
