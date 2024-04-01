@@ -105,7 +105,7 @@ Working on the Sprint Demo
 Working on slides about the project overview and webpage demonstration
 
 3/19/2024
-Tested the website for areas of improvement and bugs, relaying them to team members and marking for future backlog items
+Tested the website for areas of improvement and bugs, login and profile pages, relaying them to team members and marking for future backlog items
 
 3/24/2024
 Re-organization of Project architecture
