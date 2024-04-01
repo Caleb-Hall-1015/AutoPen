@@ -194,13 +194,16 @@ Uploaded updated web application to sitegrounds. Status: Web page with navigatio
 Met with Caleb on campus to discuss moving forward with the burpsuite API and how to best utilize digital ocean droplets and functionality wiht a project
 
 3/2/2024 - 3/7/2024
-Uploaded full web application with login, dashboard, and homepages to sitegrounds. Integrated the login pages with the current state of website. Worked on sprint slideshow on the explanation of inner communication between backend and front end
+Uploaded full web application with login, dashboard, and homepages to sitegrounds. Integrated the login pages with the current state of website. Worked on sprint slideshow 
+on the explanation of inner communication between backend and front end
 
 3/17/2024 - 3/19/2024
 Built trial data dashboards using chart js to practice visualizing data through django reading from a csv file
 
 3/26-28/2024 
-Built communication links using Djangos rest api framework and axios to streamline data across the two plaforms. Currently state: there are a lot of bugs. Also spoke with CAleb on moving the start scan functionality to a python script in the django backend. while leaving the react front end with nothing more than the buttonn that would be pressed to intiate the function call in django to run the scan and deliver the data.
+Built communication links using Djangos rest api framework and axios to streamline data across the two plaforms. Currently state: there are a lot of bugs. Also spoke with 
+CAleb on moving the start scan functionality to a python script in the django backend. while leaving the react front end with nothing more than the buttonn that would be 
+pressed to intiate the function call in django to run the scan and deliver the data.
 
 
 
