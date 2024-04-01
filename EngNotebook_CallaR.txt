@@ -193,6 +193,9 @@ Uploaded updated web application to sitegrounds. Status: Web page with navigatio
 3/1/2024
 Met with Caleb on campus to discuss moving forward with the burpsuite API and how to best utilize digital ocean droplets and functionality wiht a project
 
+3/2/2024
+Wrote out the requirements of the external intefaces for the SRS including user interfaces, hardware interfaces, software interfaces, and communications interfaces (3.1, 3.2, 3.3, 3.4)
+
 3/2/2024 - 3/7/2024
 Uploaded full web application with login, dashboard, and homepages to sitegrounds. Integrated the login pages with the current state of website. Worked on sprint slideshow 
 on the explanation of inner communication between backend and front end
