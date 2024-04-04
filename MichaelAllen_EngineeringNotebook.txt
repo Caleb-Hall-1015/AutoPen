@@ -121,4 +121,8 @@ Discussed with Calla and conducted research on how to pull an API Key from a jav
 Created Sprint 6 Backlog 
 Worked in Jira to create the different issues for the team's backlog, assigning tasks
 
+4/2/2024
+Worked on the logic for moving the run scan functionality into Django, (The backend project folder), and store the Python script file with the API key in the Djanago backend folder. 
 
+4/4/2024
+Worked on the skeletal code for moving the run scan functionality into Django, getting the backend to store the Python script file with the API key. 
